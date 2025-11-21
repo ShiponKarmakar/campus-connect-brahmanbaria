@@ -13,8 +13,10 @@ a {
     background: #3858E9;
     padding: 60px 0;
 }
-
 .wp-bb-page-breadcrumb h1 {
     color: #fff;
     font-size: 60px;
+}
+:where(.wp-site-blocks) > * {
+    margin-block-start: 0;
 }
