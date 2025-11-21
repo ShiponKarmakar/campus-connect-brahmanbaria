@@ -7,3 +7,14 @@ a {
     padding: 35px 14px !important;
     border-radius: 30px;
 }
+
+/* Blog Page */
+.wp-bb-page-breadcrumb {
+    background: #3858E9;
+    padding: 60px 0;
+}
+
+.wp-bb-page-breadcrumb h1 {
+    color: #fff;
+    font-size: 60px;
+}
