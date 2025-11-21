@@ -1,6 +1,9 @@
 a {
     text-decoration: none !important;
 }
-.wp-bb-speaker {
-
+/* Speaker */
+.wp-bb-speaker li {
+    background: #f0eeff;
+    padding: 35px 14px !important;
+    border-radius: 30px;
 }
