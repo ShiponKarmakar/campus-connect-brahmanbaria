@@ -2,6 +2,9 @@ a {
     text-decoration: none !important;
 }
 /* Speaker */
+.wp-bb-speaker {
+    margin-top: 70px !important;
+}
 .wp-bb-speaker li {
     background: #f0eeff;
     padding: 35px 14px !important;
