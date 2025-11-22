@@ -69,3 +69,9 @@ a {
     padding: 50px 10px;
     border-radius: 34px;
 }
+
+/* Blog */
+.bb-blog figure.wp-block-post-featured-image {
+    aspect-ratio: 0;
+    padding-bottom: 0;
+}
