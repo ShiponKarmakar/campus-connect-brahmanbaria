@@ -72,6 +72,6 @@ a {
 
 /* Blog */
 .bb-blog figure.wp-block-post-featured-image {
-    aspect-ratio: 0;
-    padding-bottom: 0;
+    aspect-ratio: 0 !important;
+    padding-bottom: 0 !important;
 }
