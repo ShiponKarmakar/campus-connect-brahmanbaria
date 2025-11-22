@@ -108,8 +108,8 @@ a {
 .bb-organizer .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow .wp-block-heading:after {
     content: '';
     position: absolute;
-    bottom: -119px;
-    right: 29px;
+    bottom: -110px;
+    right: 27px;
     width: 2rem;
     aspect-ratio: 1;
     background-image: radial-gradient(circle at 93% 87%, transparent 1rem, #F0EEFF calc(1rem + 1px));
