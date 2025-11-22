@@ -26,3 +26,30 @@ a {
 :where(.wp-site-blocks) > * {
     margin-block-start: 0;
 }
+
+/* Ticket */
+
+.bb-ticket div#tix {
+    border: 1px solid #ddd;
+    padding: 33px 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.bb-ticket div#tix form p {
+    display: inline-block;
+    margin-left: 48px;
+}
+
+.bb-ticket div#tix form table {
+    display: inline-block;
+    float: left;
+}
+
+.bb-ticket div#tix form p input {
+    background: #3858e9;
+    border: 0px;
+    color: #fff;
+    padding: 13px 20px;
+    float: right;
+}
