@@ -115,6 +115,11 @@ a {
     background-image: radial-gradient(circle at 93% 87%, transparent 1rem, #ffdfe0 calc(1rem + 1px));
     transform: rotate(15deg);
 }
+.bb-organizer p.has-text-align-center {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 2px;
+}
 /* Blog */
 .bb-blog figure.wp-block-post-featured-image {
     aspect-ratio: auto !important;
