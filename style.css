@@ -102,14 +102,14 @@ a {
     aspect-ratio: 1;
     background-image: radial-gradient(circle at 93% 87%, transparent 1rem, #ffdfe0 calc(1rem + 1px));
     transform: rotate(-168deg);
-    top: 33px;
-    left: 40px;
+    top: -158px;
+    left: 29px;
 }
 .bb-organizer .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow .wp-block-heading:after {
     content: '';
     position: absolute;
-    bottom: 33px;
-    right: 40px;
+    bottom: -119px;
+    right: 29px;
     width: 2rem;
     aspect-ratio: 1;
     background-image: radial-gradient(circle at 93% 87%, transparent 1rem, #ffdfe0 calc(1rem + 1px));
