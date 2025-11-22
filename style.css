@@ -53,3 +53,12 @@ a {
     padding: 13px 20px;
     float: right;
 }
+.bb-ticket div#tix form table tr th {
+    width: 100px;
+    text-align: center !important;
+}
+
+.bb-ticket div#tix form table tr td {
+    width: 100px;
+    text-align: center;
+}
