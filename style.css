@@ -65,9 +65,32 @@ a {
 
 /* Volunteer */
 .bb-organizer .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow {
-    background: #3858e914;
+    /* background: #3858e914; */
     padding: 50px 10px;
     border-radius: 34px;
+    position: relative;
+}
+.bb-organizer .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow::before{
+    content: '';
+    position: absolute;
+    inset-block-end: 0;
+    inset-inline-start: 0;
+    width: calc(100% - 60px);
+    height: calc(100% - 48px);
+    background: #ffdfe0;
+    z-index: -1;
+    border-radius: 20px;
+}
+.bb-organizer .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:after {
+    content: '';
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline-end: 0;
+    width: calc(100% - 60px);
+    height: calc(100% - 48px);
+    background: #ffdfe0;
+    z-index: -1;
+    border-radius: 20px;
 }
 
 /* Blog */
