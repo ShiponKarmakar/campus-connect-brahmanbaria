@@ -2,7 +2,7 @@ a {
     text-decoration: none !important;
 }
 .section-padding {
-    padding: 0 80px;
+    padding: 80px 0;
 }
 /* Speaker */
 .wp-bb-speaker {
